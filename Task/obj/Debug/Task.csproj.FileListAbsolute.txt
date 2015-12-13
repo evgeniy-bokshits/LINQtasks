@@ -1,0 +1,9 @@
+F:\МП\Task\Task\Task\bin\Debug\Task.exe.config
+F:\МП\Task\Task\Task\bin\Debug\Task.exe
+F:\МП\Task\Task\Task\bin\Debug\Task.pdb
+F:\МП\Task\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+F:\МП\Task\Task\Task\obj\Debug\Task.Properties.Resources.resources
+F:\МП\Task\Task\Task\obj\Debug\SampleSupport.SampleForm.resources
+F:\МП\Task\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+F:\МП\Task\Task\Task\obj\Debug\Task.exe
+F:\МП\Task\Task\Task\obj\Debug\Task.pdb
